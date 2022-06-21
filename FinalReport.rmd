@@ -62,7 +62,7 @@ basicC + geom_bar(stat="identity",position="dodge")
 basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun)) 
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
-
+The red column is for those who favor Capital Punishment, and as we see the majority who is in favor of that are the white population. The blue column represents those who do not favor Capital Punishment, where again the majority who oppose are also white. The black population are more to opposing Capital Punishment, where the other parts of the population seem to be in favor of Capital Punishment. The second graph we are given explains by percentages, which to me is more clearer. We see that almost 70 percent of white people, almost 45 percent of black poeple, and almost 55 percent of the other populations seem to be in favor of Capital Punishment. Only the black population seems to be more against Capital Punishment. 
 
 
 ### Numerical Descriptive Results
