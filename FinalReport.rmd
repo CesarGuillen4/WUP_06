@@ -69,8 +69,13 @@ The red column is for those who favor Capital Punishment, and as we see the majo
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+table2 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table2)
+colPerc(table2)
+```
 
-
+As shown in the previous data, this table proves that the only race that opposes Capital Punishment is the black race, whereas the white and other races are more leaning to be in favor of Capital Punishment. 
 
 ## Now with More data
 
