@@ -75,7 +75,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
-
+In this numerical tests we can conclude that the white race make up a majority of those are in favor of capital punishment, where the amount who are in favor who are white makes up 76 percent of that population. Yes, there is the same amount of other races that are in favor of the capital punishment, but the other races make up a very smaller proportion of those who were asked, being that almost 12 percent of those who are in favor are other races. We can also see that the white race was the one that was mostly asked or mostly answered. 
 
 ## Now with less data
 
