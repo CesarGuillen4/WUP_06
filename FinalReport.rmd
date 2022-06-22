@@ -62,6 +62,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
+In the graph above we can see that there are about 300 white people that are in favor of capital punishment and about 175 that are against capital punishment. As for the black and other races, they seem to almost have the same amount for those who are in favor of capital punishment being at just a little bit more than 100, where as the black race has more than 100 that oppose and the other has about 50 that oppose. 
 
 
 ### Numerical Descriptive Results
