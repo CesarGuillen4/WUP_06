@@ -94,8 +94,10 @@ fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
 
+Since the chisq test is telling us that the differences between the white, black and other races' views on the issue, we will be doing a fisherXY tests to get the differences of all the races compared to one another. 
+
 ```{r}
-fisherXY(mydata$cappun,mydata$race)
+fisherXY(mydata$cappun,mydata$race,printAll = TRUE)
 ```
  
 
