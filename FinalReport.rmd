@@ -100,7 +100,8 @@ Since the chisq test is telling us that the differences between the white, black
 fisherXY(mydata$cappun,mydata$race,printAll = TRUE)
 ```
  
-
+There is almost no difference between the other and white races in how many are in favor of Capital Punishment. And there is almost no difference between the black and other races in their position to oppose Capital Punishment. But there is a very noticable difference between the black and white race based on the p value for both their opinions in if they are in favor or if they oppose of Capital Punishment. 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
