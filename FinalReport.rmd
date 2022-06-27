@@ -168,3 +168,5 @@ The only difference that we can see is that the only difference are between the 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+What we have pulled from this data is that mostly the white population have been asked about their opinion of Capital Punishment, which is why there are more white people who both are in favor and oppose of it. We see that there are more than 300 white people who agree, which make up most of those who are in favor, and more than 160 who oppose, which also make up a major population of those who are oppose. Black and other seem to have almost the same opinions on both sides, but they seem to have been less asked than the white population. Those who are in other have the same percentage, meaning there isn't much a difference for the percentage of other races and the white race who are in favor. 
