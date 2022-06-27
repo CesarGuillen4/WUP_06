@@ -62,6 +62,7 @@ basicC + geom_bar(stat="identity",position="dodge")
 basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun)) 
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
+
 The red column is for those who favor Capital Punishment, and as we see the majority who is in favor of that are the white population. The blue column represents those who do not favor Capital Punishment, where again the majority who oppose are also white. The black population are more to opposing Capital Punishment, where the other parts of the population seem to be in favor of Capital Punishment. The second graph we are given explains by percentages, which to me is more clearer. We see that almost 70 percent of white people, almost 45 percent of black poeple, and almost 55 percent of the other populations seem to be in favor of Capital Punishment. Only the black population seems to be more against Capital Punishment. 
 
 
@@ -101,7 +102,9 @@ fisherXY(mydata$cappun,mydata$race,printAll = TRUE)
 ```
  
 There is almost no difference between the other and white races in how many are in favor of Capital Punishment. And there is almost no difference between the black and other races in their position to oppose Capital Punishment. But there is a very noticable difference between the black and white race based on the p value for both their opinions in if they are in favor or if they oppose of Capital Punishment. 
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+What we can pull is that we can see that there will be more people who are in favor of Capital Punishment because in two of the races we see a higher percentage of those who are in favor, those being the white and other races. The white race having a 70 percent of those who are in favor, and the other races having 55 percent in being in favor of capital punishment. We see almost no difference between the white and other races based on the fisherXY tests that we ran, having a p value of 1. But when we run the test between the black and white races, the p value comes to .0002738, meaning there is a very noticable difference between the two. 
